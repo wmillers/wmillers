@@ -5,7 +5,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true)](https://github.com/wmillers/kindleWeatherClock)  
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=orange)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/kindleWeatherClock)
-![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
+![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg?color=aquamarine)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&show_owner=true)](https://github.com/wmillers/wmillers.github.io)  
 [![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)
