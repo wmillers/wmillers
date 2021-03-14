@@ -5,7 +5,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=pink)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/kindleWeatherClock?color=dodgerblue)
-![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg?color=aquamarine)  
+![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg?color=aquamarine)
+[![DeepScan grade](https://deepscan.io/api/teams/13271/projects/16273/branches/344913/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13271&pid=16273&bid=344913)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&show_owner=true&theme=react)](https://github.com/wmillers/wmillers.github.io)  
 [![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)
