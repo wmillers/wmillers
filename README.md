@@ -5,7 +5,8 @@
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
 
-[![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)  
+[![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)
+![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
 
 <!--
