@@ -1,8 +1,12 @@
 ### Hello there 🔭
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=great-gatsby)](https://github.com/wmillers)  
+
+![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=coursewarePhotoProcess&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
+
+[![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
 
 <!--
 **wmillers/wmillers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
