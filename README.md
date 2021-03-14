@@ -3,7 +3,7 @@
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs)](https://github.com/wmillers)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true)](https://github.com/wmillers/kindleWeatherClock)  
-![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=antiquewhite)
+![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=papayawhip)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/kindleWeatherClock?color=)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg?color=aquamarine)  
 
