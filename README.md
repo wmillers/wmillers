@@ -2,6 +2,7 @@
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=great-gatsby)](https://github.com/wmillers)  
 
+[![GitHub tag](https://img.shields.io/github/tag/wmillers/kindleWeatherClock.svg)](https://GitHub.com/wmillers/)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
 
