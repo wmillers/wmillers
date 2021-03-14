@@ -5,11 +5,12 @@
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/kindleWeatherClock)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&theme=great-gatsby&show_owner=true)](https://github.com/wmillers/kindleWeatherClock)  
 
 [![github pages](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/privateHugoDatabase/actions/workflows/hugo-page.yml)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/wmillers.github.io)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&theme=great-gatsby&show_owner=true)](https://github.com/wmillers)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&theme=great-gatsby&show_owner=true)](https://github.com/wmillers/wmillers.github.io)  
 
 <!--
 **wmillers/wmillers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
