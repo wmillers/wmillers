@@ -9,7 +9,7 @@
 [![DeepScan grade](https://deepscan.io/api/teams/13271/projects/16273/branches/344913/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=13271&pid=16273&bid=344913)  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=wmillers.github.io&show_owner=true&theme=react)](https://github.com/wmillers/wmillers.github.io)  
-[![github pages](https://github.com/wmillers/blog/actions/workflows/hugo-page.yml/badge.svg)](https://github.com/wmillers/blog/actions/workflows/hugo-page.yml)
+[![github pages](https://github.com/wmillers/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmillers/blog/actions/workflows/deploy.yml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/wmillers.github.io?color=skyblue&style=flat-square)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/wmillers.github.io.svg?color=papayawhip&style=flat-square)  
 
