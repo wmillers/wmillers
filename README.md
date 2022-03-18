@@ -2,7 +2,7 @@
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=react)](https://github.com/wmillers)  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=yellow&style=flat-square)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/kindleWeatherClock?color=dodgerblue&style=flat-square)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/kindleWeatherClock.svg?color=aquamarine&style=flat-square)
@@ -12,7 +12,7 @@
 [![github pages](https://github.com/wmillers/blog/actions/workflows/deploy.yml/badge.svg)](https://github.com/wmillers/blog/actions/workflows/deploy.yml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wmillers/wmillers.github.io?color=skyblue&style=flat-square)
 ![last_commit](https://img.shields.io/github/last-commit/wmillers/wmillers.github.io.svg?color=papayawhip&style=flat-square)  
-
+-->
 <!--
 **wmillers/wmillers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
