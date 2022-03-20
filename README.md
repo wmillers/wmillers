@@ -1,6 +1,8 @@
-### Hello there 🔭
+## Hello there :wave:
 
-[![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=react)](https://github.com/wmillers)  
+- Currently learning golang and kubernetes related things
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=default)](https://github.com/wmillers)  
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=yellow&style=flat-square)
