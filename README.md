@@ -1,10 +1,10 @@
 ## Hello there :wave:
 
 I'm wmiller.  
-- Currently learning golang and kubernetes related things
+- 🔭 Currently learning Golang and Kubernetes related things
 
-You can visite my blog  
-- https://robu.vercel.app/posts/
+Blog
+- 📫 https://robu.vercel.app/posts/
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=default)](https://github.com/wmillers)  
 
