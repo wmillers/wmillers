@@ -2,9 +2,7 @@
 
 I'm wmiller.  
 - 🔭 Currently learning Go
-
-Blog
-- 📫 https://t.ly/KNwz
+- 📫 Blog: https://t.ly/KNwz
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=default)](https://github.com/wmillers)  
 
