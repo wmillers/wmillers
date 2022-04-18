@@ -1,7 +1,7 @@
 ## Hello there :wave:
 
 I'm wmiller.  
-- 🔭 Currently learning Golang and Kubernetes related things
+- 🔭 Currently learning Go
 
 Blog
 - 📫 https://t.ly/KNwz
