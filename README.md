@@ -5,6 +5,7 @@ I'm wmiller.
 - ⚡ Blog https://t.ly/KNwz
 
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&hide=stars,prs,contribs&theme=default)](https://github.com/wmillers)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmillers&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
 ![GitHub release](https://img.shields.io/github/release/wmillers/kindleWeatherClock.svg?color=yellow&style=flat-square)
