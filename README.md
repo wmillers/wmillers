@@ -1,7 +1,7 @@
 ## Hello there :wave:
 
 I'm wmiller.  
-- 🔭 Currently learning Go
+- 🔭 Currently using Go & Python
 - ⚡ Blog https://t.ly/KNwz
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmillers&show_icons=true&layout=default&theme=vue&hide_border=true&hide=html&card_width=256&line_height=24.5)  
