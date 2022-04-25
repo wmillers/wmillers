@@ -4,7 +4,7 @@ I'm wmiller.
 - 🔭 Currently using Go
 - ⚡ Blog https://t.ly/KNwz
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmillers&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html&card_width=80)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmillers&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html&card_width=445)  
 [![my github stats](https://github-readme-stats.vercel.app/api?username=wmillers&show_icons=true&count_private=true&theme=vue&hide=stars,prs,contribs&line_height=24.5)](https://github.com/wmillers)  
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wmillers&repo=kindleWeatherClock&show_owner=true&theme=react)](https://github.com/wmillers/kindleWeatherClock)  
